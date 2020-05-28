@@ -1,0 +1,2 @@
+# Forex-Data-Visualisation-website
+The projects was developed using Typescript to scrape data from web services. Typescript was also used to scrape twitter data regarding forex currencies. These data were then saved on DynamoDB, provided by Amazon Web services. The projects using lambda function and sagemaker to create predictions(Machine learning) on forex data. Sentiment analysis is developed using AWS Comprehend. The data is then plotted on graphs in a beautifully laid out website.
